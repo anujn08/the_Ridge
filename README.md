@@ -16,7 +16,7 @@ Open http://localhost:8080. No dependency installation or build step is required
 
 The site files are at the repository root and use relative asset paths, so they work at a GitHub Pages project URL.
 
-Option 1: In **Settings > Pages**, select **Deploy from a branch**, choose **main**, and select **/ (root)**. Save. The expected address is https://anujn08.github.io/the_ridge/ once GitHub finishes deployment.
+Option 1: In **Settings > Pages**, select **Deploy from a branch**, choose **main**, and select **/ (root)**. Save. The expected address is https://anujn08.github.io/the_Ridge/ once GitHub finishes deployment.
 
 Option 2: Select **GitHub Actions** as the Pages source, then manually run **Deploy website to GitHub Pages** from the Actions tab. The included workflow is manual; pushing this repository does not automatically run it.
 
